@@ -1,1 +1,5 @@
 It was the best time.
+1. go to your github account -> settings -> developer settings -> personal access token
+2. generate one, and make sure to copy it safe somewhere because you can only see it once.
+
+3. push again, when they ask for your username just put your username, for password copy and paste your token instead of typing your password in.
